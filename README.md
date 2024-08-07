@@ -6,7 +6,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak hazırlanmış bir hava durumu w
 
 ## Özellikler
 
-- **Mevcut Hava Durumu:** Kullanıcının konumuna göre mevcut hava durumu bilgilerini gösterir.ß
+- **Mevcut Hava Durumu:** Kullanıcının konumuna göre mevcut hava durumu bilgilerini gösterir.
 
 - **Arama Özelliği:** Kullanıcıların istedikleri şehir için hava durumunu arayabilmelerini sağlar.
 
@@ -21,4 +21,4 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak hazırlanmış bir hava durumu w
 
 ## İletişim
 
-Bu projeyle ilgili sorularınız veya önerileriniz için, lütfen [buraakgookmen@gmail.com] adresine e-posta gönderin.# Weather-App
+Bu projeyle ilgili sorularınız veya önerileriniz için, lütfen [buraakgookmen@gmail.com] adresine e-posta gönderin.
